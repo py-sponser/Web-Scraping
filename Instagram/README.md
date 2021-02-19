@@ -20,7 +20,7 @@ To download Chrome driver > https://chromedriver.chromium.org/downloads
 
 To add to path:\
 For linux:
-- type this command > mv file /usr/bin
+- type this command > sudo mv file /usr/bin
 
 For windows:
 - Get the path of the file
