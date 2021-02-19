@@ -14,6 +14,11 @@ There will be requirements.txt file to install required packages > pip install -
 
 Other important requirements to be able to run the script: you have to download Firefox or Chrome driver, add the file to PATH
 
+To download firefox driver > https://github.com/mozilla/geckodriver/releases
+
+To download Chrome driver > https://chromedriver.chromium.org/downloads
+
+- To add to path:
 For linux:
 - type this command > mv file /usr/bin
 
