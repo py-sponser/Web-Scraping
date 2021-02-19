@@ -1,6 +1,6 @@
 # Instagram Bot
 
-Under development and improvement
+Still working on adding more features.
 
 Features:
 - Ability to get a page and follow all of it followers (people that follow this page).
