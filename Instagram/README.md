@@ -18,7 +18,7 @@ To download firefox driver > https://github.com/mozilla/geckodriver/releases
 
 To download Chrome driver > https://chromedriver.chromium.org/downloads
 
-- To add to path:
+To add to path:\
 For linux:
 - type this command > mv file /usr/bin
 
